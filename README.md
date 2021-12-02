@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a Web templates website
 - 📫 How to reach me :
 - Email : poussinjaunedu10@gmail.com
-- Discord : Poussin#1234
+- Discord : Poussin#0001
 
 <!---
 ItsPoussin/ItsPoussin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
