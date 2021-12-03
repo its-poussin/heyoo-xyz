@@ -1,7 +1,6 @@
 - 👋 Hey there! I’m @ItsPoussin
 - 👀 I’m interested in Web ans Python Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on a Web templates website
 - 📫 How to reach me :
 - Email : poussinjaunedu10@gmail.com
 - Discord : Poussin#0001
