@@ -1,5 +1,5 @@
 - 👋 Hey there! I’m @ItsPoussin
-- 👀 I’m interested in Web ans Python Development
+- 👀 I’m interested in Web and Python Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me :
 - Email : poussinjaunedu10@gmail.com
